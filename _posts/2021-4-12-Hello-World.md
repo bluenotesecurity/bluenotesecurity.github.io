@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Work in progress!
+title: Welcome to my Information Security blog!
 ---
 
